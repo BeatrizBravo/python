@@ -8,3 +8,9 @@ verb1 = input("write of a verb: ")
 day = input("what day of the week do you like?")
 body = input("write a part of the body: ")
 
+
+madlib = f"\n\n{name} is having a {theme} party!!\n It's goig be at {place} on {day}.\n " \
+         f"Please make sure to show up at {time}, or else you will be required to {verb1} a/an {animal} with" \
+         f" your {body}. \n\n RSPV at {contact}."
+
+print(madlib)
