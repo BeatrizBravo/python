@@ -31,7 +31,7 @@ def guessNumber(number):
             print('Try again. This number is too big.')
 
         # The loop stops when the user guesses the number correctly and a final message is displayed.
-    print(f'\n\nCongratulations! You guessed the number {randomNumber} correctly.')
+    print(f'\n\nCongratulations! You guessed the number {randomNumber} correctly.\n\n')
 
 # call the function
 guessNumber(50)
