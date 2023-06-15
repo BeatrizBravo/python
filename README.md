@@ -8,3 +8,4 @@ Follow along as I explore the many possibilities of this powerful programming la
 
 ## Index
 1. [Madlib: Party invitation](https://github.com/BeatrizBravo/python/blob/main/madlib-game/madlib.py).&nbsp;<br />
+1. [The user guesses the number](https://github.com/BeatrizBravo/python/blob/main/Guess%20the%20number/guessNumber-game).&nbsp;<br />
