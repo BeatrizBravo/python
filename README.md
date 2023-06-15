@@ -46,8 +46,12 @@ In this space, I will be working on various mini-projects to learn and develop m
 7. You are ready to play.
 
 ### Opcion B
+
 alternatively, **clone** this repository onto your locale machine
 with:
+
+<br>
+
     ```bash
     git clone https://github.com/BeatrizBravo/python.git
     ```
