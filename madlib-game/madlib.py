@@ -1,0 +1,10 @@
+name = input("what's your name? ")
+contact = input("How can you be contacted? ")
+theme = input("what topics do you like? ")
+place = input("where would you like to go now? ")
+time = input("what is the best time of day for you? ")
+animal = input("write an animal :  ")
+verb1 = input("write of a verb: ")
+day = input("what day of the week do you like?")
+body = input("write a part of the body: ")
+
