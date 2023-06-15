@@ -55,5 +55,6 @@ git clone https://github.com/BeatrizBravo/python.git
 
 ## Choose your games
 1. [Madlib: Party invitation](https://github.com/BeatrizBravo/python/blob/main/madlib-game/madlib.py).&nbsp;<br />
-1. [The user guesses the number](https://github.com/BeatrizBravo/python/blob/main/Guess%20the%20number/guessNumber-game).&nbsp;<br />
-1. [Your computer guesses the number you thought](https://github.com/BeatrizBravo/python/blob/main/Guess%20the%20number/guessNumber-byComputer.py).&nbsp;<br />
+2. [The user guesses the number](https://github.com/BeatrizBravo/python/blob/main/Guess%20the%20number/guessNumber-game).&nbsp;<br />
+3. [Your computer guesses the number you thought](https://github.com/BeatrizBravo/python/blob/main/Guess%20the%20number/guessNumber-byComputer.py).&nbsp;<br />
+4. [Categorizing a year in a century and decade](https://github.com/BeatrizBravo/python/blob/main/CFG%20ejercicios/Session3-3.py).&nbsp;<br />
