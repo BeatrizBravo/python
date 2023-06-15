@@ -6,7 +6,7 @@
 
 print("How is the whether like today!!")
 print('''
-type the right unswer:
+type the right answer:
 "Y" for yes
 "N" for no
 ''')
