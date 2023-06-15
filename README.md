@@ -46,15 +46,12 @@ In this space, I will be working on various mini-projects to learn and develop m
 7. You are ready to play.
 
 ### Opcion B
+alternatively, **clone** this repository onto your locale machine with:
+```commandline
+git clone https://github.com/BeatrizBravo/python.git
+```
 
-alternatively, **clone** this repository onto your locale machine
-with:
-
-<br>
-
-    ```bash
-    git clone https://github.com/BeatrizBravo/python.git
-    ```
+    
 
 ## Index
 1. [Madlib: Party invitation](https://github.com/BeatrizBravo/python/blob/main/madlib-game/madlib.py).&nbsp;<br />
