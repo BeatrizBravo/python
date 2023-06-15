@@ -53,7 +53,7 @@ git clone https://github.com/BeatrizBravo/python.git
 
     
 
-## Index
+## Choose your games
 1. [Madlib: Party invitation](https://github.com/BeatrizBravo/python/blob/main/madlib-game/madlib.py).&nbsp;<br />
 1. [The user guesses the number](https://github.com/BeatrizBravo/python/blob/main/Guess%20the%20number/guessNumber-game).&nbsp;<br />
 1. [Your computer guesses the number you thought](https://github.com/BeatrizBravo/python/blob/main/Guess%20the%20number/guessNumber-byComputer.py).&nbsp;<br />
