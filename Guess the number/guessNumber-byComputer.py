@@ -10,21 +10,45 @@ def guessNumberComputer(number):
         number: the maximum limit marked for the number to be guessed
     """
 
-    print("------------------------------------------" \
+    print("\n\n------------------------------------------" \
           "| Welcome to the guess the number game!  |"\
           "------------------------------------------"\
          f"\n\nFirst: Think of a number between 1 and {number}"\
          "\n\nYour goal is to guide the computer to guess the number that you have previously thought. \nReady!\n")
-    time.sleep(5)
+    time.sleep(5) #wait
 
-    # Range of valid values
+    # Initialize the lower and upper bounds of the possible numbers.
     lower_bound = 1
     upper_bound = number
     response = ""
 
-    print(f"The computer says: ")
 
 
+    # Continue the game as long as the computer has not guessed the correct number.
+    while response != "c":
+        if lower_bound != upper_bound:
+        # Generate a random number between the lower and upper bounds.
+            computer = random.randint(lower_bound, upper_bound)
+        else:
+            computer = lower_bound  # (1) could also be upper_bound because the bounds are equal.
+
+        # Get user response
+        response = input(
+            f"The computer says: \"{computer}\"\n"\
+            "If it is too high, enter (U) for \"Upper\".\n"\
+            "If it is too low, enter (L) \"Lower\.\n"\
+            "If correct, enter (C) \"Correct\"\n").lower()
+
+        # Update the lower and upper bounds based on the user's response.
+        if response == "u":
+            upper_bound = computer - 1
+        elif response == "l":
+            lower_bound = computer + 1
+        else:
+            # The user's response was not "u" or "l", so the game is over.
+            break
+    # Indicate that the computer has guessed the correct number.
+    print(f"🎉🎉!\nThe computer guessed your number correctly.\nThis was: \"{computer}\"")
 
 #Setting the upper bound to guess
 guessNumberComputer(100)
