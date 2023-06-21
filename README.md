@@ -3,6 +3,16 @@
 
 # Welcome to my **python** repository!
 In this space, I will be working on various mini-projects to learn and develop my skills in Python. 
+
+
+## Choose your games:
+1. [Madlib: Party invitation](https://github.com/BeatrizBravo/python/blob/main/Projects/madlib-game/madlib.py).&nbsp;<br />
+2. [The user guesses the number](https://github.com/BeatrizBravo/python/blob/main/Projects/Guess%20the%20number/guessNumber-game).&nbsp;<br />
+3. [Your computer guesses the number you thought](https://github.com/BeatrizBravo/python/blob/main/Projects/Guess%20the%20number/guessNumber-byComputer.py).&nbsp;<br />
+4. [Categorizing a year in a century and decade](https://github.com/BeatrizBravo/python/blob/main/Projects/CFG%20ejercicios/Session3-3.py).&nbsp;<br />
+
+
+# How to run this repository
 ## Play with me:
 ### Opcion A
 1. Press the key "." (full stop) and enter. 
@@ -53,8 +63,3 @@ git clone https://github.com/BeatrizBravo/python.git
 
     
 
-## Choose your games
-1. [Madlib: Party invitation](https://github.com/BeatrizBravo/python/blob/main/Projects/madlib-game/madlib.py).&nbsp;<br />
-2. [The user guesses the number](https://github.com/BeatrizBravo/python/blob/main/Projects/Guess%20the%20number/guessNumber-game).&nbsp;<br />
-3. [Your computer guesses the number you thought](https://github.com/BeatrizBravo/python/blob/main/Projects/Guess%20the%20number/guessNumber-byComputer.py).&nbsp;<br />
-4. [Categorizing a year in a century and decade](https://github.com/BeatrizBravo/python/blob/main/Projects/CFG%20ejercicios/Session3-3.py).&nbsp;<br />
