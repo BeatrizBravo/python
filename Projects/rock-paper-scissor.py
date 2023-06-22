@@ -10,3 +10,13 @@ def rps():
         choice = "scissors"
     return choice
 
+print('''
+    Welcome to Rock Paper Scissors Game!
+    Choose your move:
+    1 - Rock
+    2 - Paper
+    3 - Scissors
+''')
+
+user_choice = int(input("Enter your move: "))
+
