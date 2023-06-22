@@ -12,3 +12,5 @@ print("done")
 poem_file.write() writes the content of the poem variable to the "poem.txt" file.
    
 '''
+import sys
+print(sys.executable)
