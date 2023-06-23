@@ -1,14 +1,14 @@
 i = 4
+
+# Declare second integer, double, and String variables.
 d = 4.0
 s = 'HackerRank '
-# Declare second integer, double, and String variables.
-d = 0.0
-s = ""
-
 # Read and save an integer, double, and String to your variables.
-i = int(input())
-d = float(input())
-s = input()
+i = int(input("write an integer: "))
+d = float(input("write an float: "))
+s = input("write an string: ")
+
+
 
 # Print the sum of both integer variables on a new line.
 sum_i = i + 4
