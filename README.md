@@ -11,7 +11,8 @@ In this space, I will be working on various mini-projects to learn and develop m
 3. [Your computer guesses the number you thought](https://github.com/BeatrizBravo/python/blob/main/Projects/Guess%20the%20number/guessNumber-byComputer.py).&nbsp;<br />
 4. [Categorizing a year in a century and decade](https://github.com/BeatrizBravo/python/blob/main/Projects/CFG%20ejercicios/Session3-3.py).&nbsp;<br />
 5. [How much you win with this lotery number [3, 7, 16, 22, 28, 35, 42]](https://github.com/BeatrizBravo/python/blob/main/Projects/CFG%20ejercicios/Session4.py).&nbsp;<br />
-5. [Rock-Paper scissor](https://github.com/BeatrizBravo/python/blob/main/Projects/r_p_s/rock-paper-scissor.py).&nbsp;<br />
+6. [Rock-Paper scissor](https://github.com/BeatrizBravo/python/blob/main/Projects/r_p_s/rock-paper-scissor.py).&nbsp;<br />
+7. [Pokemon Top Trumps](https://github.com/BeatrizBravo/python/blob/main/Projects/CFG%20ejercicios/Projects/pokemon.py).&nbsp;<br />
 
 # How to run this repository
 ## Play with me:
