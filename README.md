@@ -13,6 +13,7 @@ In this space, I will be working on various mini-projects to learn and develop m
 5. [How much you win with this lotery number [3, 7, 16, 22, 28, 35, 42]](https://github.com/BeatrizBravo/python/blob/main/Projects/CFG%20ejercicios/Session4.py).&nbsp;<br />
 6. [Rock-Paper scissor](https://github.com/BeatrizBravo/python/blob/main/Projects/r_p_s/rock-paper-scissor.py).&nbsp;<br />
 7. [Pokemon Top Trumps](https://github.com/BeatrizBravo/python/blob/main/Projects/CFG%20ejercicios/Projects/pokemon.py).&nbsp;<br />
+7. [Search for your recipies by a specific ingredient](https://github.com/BeatrizBravo/python/blob/main/Projects/CFG%20ejercicios/Projects/recipies.py).&nbsp;<br />
 
 # How to run this repository
 ## Play with me:
