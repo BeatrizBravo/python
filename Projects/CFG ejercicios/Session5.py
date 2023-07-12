@@ -2,7 +2,7 @@
 
 # This program  that saves my data to a file
 poem = 'I like Python and I am not very good at poems'
-with open('poem.txt', 'w') as poem_file:   #opens a new file called "poem.txt" and add and alias.
+with open('poe.txt', 'w') as poem_file:   #opens a new file called "poem.txt" and add and alias.
     poem_file.write(poem)
 print("done")
 '''
