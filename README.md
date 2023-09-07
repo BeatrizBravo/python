@@ -17,7 +17,7 @@ In this space, I will be working on various mini-projects to learn and develop m
 
 
 ## Others
-A. [Student SQLite database]().&nbsp;<br />
+A. [Student SQLite database](https://github.com/BeatrizBravo/python/blob/main/Projects/SQLite/database.py).&nbsp;<br />
 # How to run this repository
 ## Play with me:
 ### Opcion A
