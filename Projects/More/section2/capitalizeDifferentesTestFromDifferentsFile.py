@@ -1,7 +1,3 @@
-#I have multiple text files in a folder named "data" in "data".
-# Each text file contains some text, but the sentences strat with a lowercase letter.
-# I want to convert the first letter of each sentence, of each file to uppercase  Write me a Python script for that.
-
 import os
 
 # Directory path containing the text files
