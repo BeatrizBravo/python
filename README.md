@@ -1,6 +1,4 @@
-<br>
-<br>
-##I want to create a 100 text files. each text file should contain a different pet's name inside
+
 
 # Welcome to my **python** repository!
 In this space, I will be working on various mini-projects to learn and develop my skills in Python. 
